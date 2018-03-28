@@ -1,3 +1,3 @@
-# gitkills
+# gitkill
 
-create a new branch is  quick and simple
+this is feature1
